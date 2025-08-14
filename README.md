@@ -1,5 +1,5 @@
 # SteamNoodles – Automated Restaurant Feedback Agents (LangChain)
-Jakshigan Jeyaseelan
+Jakshigan Jeyaseelan<br/>
 NSBM Green University
 --
 Two LangChain agents for SteamNoodles:
