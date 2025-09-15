@@ -1,6 +1,4 @@
 # SteamNoodles – Automated Restaurant Feedback Agents (LangChain)
-Jakshigan Jeyaseelan<br/>
-NSBM Green University
 --
 Two LangChain agents for SteamNoodles:
 1) **Feedback Response Agent** – classifies a single review (positive/negative/neutral) and generates a short, polite, context-aware reply.
